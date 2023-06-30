@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: "Raleway", sans-serif;
 }
 
 .App-logo {
@@ -25,7 +26,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #074253;
 }
 
 @keyframes App-logo-spin {
